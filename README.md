@@ -1,2 +1,4 @@
 # p5
-p5 designs and animations
+Designs and animations using p5.js
+
+Using inspiration and lessons from https://p5js.org/
